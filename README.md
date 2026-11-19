@@ -1,16 +1,20 @@
+<div align="center">
+
+<img src="assets/cover.webp" width="100%" alt="Atlas del Sabor">
+
 # Atlas del Sabor
 
-> A culinary atlas of 172 countries, with an AI chef that answers while you cook and a camera that turns a photo of a dish into a recipe.
-
-**Status:** Live · https://atlas-del-sabor.vercel.app
-**Models:** Llama 3.3 70B · Llama 3.1 8B · a vision model · served through Groq
-
-![Atlas del Sabor](assets/banner.svg)
+**A culinary atlas of 172 countries, with an AI chef that answers while you cook and a camera that turns a photo of a dish into a recipe.**
 
 <p>
-  [![Live](https://img.shields.io/badge/live-demo-4fb8a1?style=flat-square&labelColor=0c0d0f)](https://atlas-del-sabor.vercel.app)
-  [![Portfolio](https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f)](https://ignaciomoralesdev.vercel.app)
+  <img src="https://img.shields.io/badge/status-live-4fb8a1?style=flat-square&labelColor=0c0d0f" alt="Status: live">
+  <a href="https://atlas-del-sabor.vercel.app"><img src="https://img.shields.io/badge/demo-open-4fb8a1?style=flat-square&labelColor=0c0d0f" alt="Live demo"></a>
+  <a href="https://ignaciomoralesdev.vercel.app"><img src="https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f" alt="Portfolio"></a>
 </p>
+
+<p><sub>Llama 3.3 70B · Llama 3.1 8B · vision model · served through Groq</sub></p>
+
+</div>
 
 ## What it is
 
