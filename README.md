@@ -5,7 +5,12 @@
 **Status:** Live · https://atlas-del-sabor.vercel.app
 **Models:** Llama 3.3 70B · Llama 3.1 8B · a vision model · served through Groq
 
-![Atlas del Sabor](assets/cover.webp)
+![Atlas del Sabor](assets/banner.svg)
+
+<p>
+  [![Live](https://img.shields.io/badge/live-demo-4fb8a1?style=flat-square&labelColor=0c0d0f)](https://atlas-del-sabor.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f)](https://ignaciomoralesdev.vercel.app)
+</p>
 
 ## What it is
 
